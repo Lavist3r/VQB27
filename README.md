@@ -7,4 +7,4 @@ This project utilizes two VQB27 seven-segment displays. Information on the VQB27
 
 # Introduction
 
-The VQB27, a SS126 NPN and an Arduino Nano were used in  this project. A custom PCB was designed and manufactured to have a somewhat functional two digit display thats also decent looking and not like a bomb on breadboard.
+The VQB27, a SS126 NPN and an Arduino Nano were used in  this project. A custom PCB was designed and manufactured to have a somewhat functional two digit display thats also decent looking and not like a bomb on a breadboard.
