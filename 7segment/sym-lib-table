@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name david)(type Legacy)(uri /home/uli/Dokumente/kicad/7segment/david.lib)(options "")(descr ""))
+  (lib (name 7segment-rescue)(type Legacy)(uri ${KIPRJMOD}/7segment-rescue.lib)(options "")(descr ""))
+)
